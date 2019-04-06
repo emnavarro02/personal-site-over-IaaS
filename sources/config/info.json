@@ -1,9 +1,9 @@
 {
-	"studentNumber" : "2180233",
-	"name" : "Emerson Navarro",
-	"shortname" : "Emerson",
+	"studentNumber" : "00000000",
+	"name" : "My Name",
+	"shortname" : "MyShortName",
 	"nationality" : "Brasileiro",
-	"email1" : "2180233@my.ipleiria.pt",
-	"email2" : "contato@emersonnavarro.com.br",
+	"email1" : "0000000@my.ipleiria.pt",
+	"email2" : "my@email.com",
 	"other" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 }

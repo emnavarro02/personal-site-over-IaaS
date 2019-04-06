@@ -1,7 +1,7 @@
 {
 	"email_account" : {
 		"email" : "name.givenname@email.com",
-		"emailName" : "Emerson Navarro",
+		"emailName" : "My Name",
 		"SMTP" : "smtp.office365.com",
 		"port" : "587",
 		"encryption" : "tls",
